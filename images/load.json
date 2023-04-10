@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "slider.png",
+	"frame": {"x":2,"y":46,"w":362,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":362,"h":42},
+	"sourceSize": {"w":362,"h":42}
+},
+{
+	"filename": "sliderbg.png",
+	"frame": {"x":2,"y":2,"w":362,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":362,"h":42},
+	"sourceSize": {"w":362,"h":42}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "load.png",
+	"format": "RGBA8888",
+	"size": {"w":366,"h":366},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88fbf1591c9b3e785772925727978611$"
+}
+}
